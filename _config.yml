@@ -1,0 +1,91 @@
+layout_spectrum: 0.15354189727234072
+typography_spectrum: 0.8565412136500167
+color:
+  brandStrength: 0.9472456296155284
+  lightness: 0.5304644179762812
+  saturation: 0.8564128373915533
+  rhythmicContrast: 0.07182815692802468
+  brandColors:
+    - '#8C2226'
+    - '#79979A'
+    - '#A8B589'
+    - '#7D6262'
+    - '#D4E6DF'
+coverPrefs:
+  filter: false
+analytics:
+  twitter: Private
+author:
+  name: Steve GW
+  email: stevegwusa@gmail.com
+name: 'Art Show July-26th-Aug-4th '
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: When - Details
+    id: 73d27468-f9fb-4ac7-b805-d12cf0cfae6b
+    type: content
+  - name: Location - Where
+    id: d7e6a7ce-3d9b-431a-aa4a-f549de02fa9f
+    type: content
+title: Expressions Artist Show
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9552fd77-0ca7-47e2-bc26-3555ec0743c1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9552fd77-0ca7-47e2-bc26-3555ec0743c1.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a043a47-426e-4a21-861f-c6f1c388f723.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a043a47-426e-4a21-861f-c6f1c388f723.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: '* Artists and their joy of Art'
+purpose:
+  - type: contact
+    url: 'mailto:nelia@neliaharper.com'
+    label: Contact Nelia for more info
+github: true
