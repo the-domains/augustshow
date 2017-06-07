@@ -1,19 +1,17 @@
-layout_spectrum: 0.2631200300989728
-typography_spectrum: 0.021684414324267667
+typography_spectrum: 0.8565412136500167
 color:
-  brandStrength: 0.4023274861234655
-  lightness: 0.26603532992616885
-  saturation: 0.40510071370621575
-  rhythmicContrast: 0.5752466490559538
+  brandStrength: 0.9472456296155284
+  lightness: 0.5304644179762812
+  saturation: 0.8564128373915533
+  rhythmicContrast: 0.07182815692802468
   brandColors:
-    - '#9A3100'
-    - '#B55E2D'
-    - '#A9A669'
-    - '#18100B'
-    - '#D48800'
-coverPrefs:
-  filter: false
+    - '#8C2226'
+    - '#79979A'
+    - '#A8B589'
+    - '#7D6262'
+    - '#D4E6DF'
 github: true
+layout_spectrum: 0.15354189727234072
 analytics:
   twitter: Private
 author:
@@ -87,6 +85,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: '* Artists and their joy of Art'
 purpose:
   - type: contact
