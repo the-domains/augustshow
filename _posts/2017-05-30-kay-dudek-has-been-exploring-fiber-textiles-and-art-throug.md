@@ -7,8 +7,8 @@ description: >-
   and sculpture, much like clay. She also blends dyed fiber to produce shades
   and tones for felt “paintings”.
 author: []
-datePublished: '2017-06-02T03:03:29.129Z'
-dateModified: '2017-05-31T01:04:24.072Z'
+datePublished: '2017-05-30T19:44:39.996Z'
+dateModified: '2017-05-30T19:44:38.937Z'
 title: Kay Dudek
 publisher: {}
 via: {}
