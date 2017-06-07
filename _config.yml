@@ -1,18 +1,19 @@
-layout_spectrum: 0.15354189727234072
-typography_spectrum: 0.8565412136500167
+layout_spectrum: 0.035890916825484225
+typography_spectrum: 0.024599619271823824
 color:
-  brandStrength: 0.9472456296155284
-  lightness: 0.5304644179762812
-  saturation: 0.8564128373915533
-  rhythmicContrast: 0.07182815692802468
+  brandStrength: 0.9974782544000093
+  lightness: 0.2596855803697121
+  saturation: 0.7212184410508131
+  rhythmicContrast: 0.011100957605729598
   brandColors:
-    - '#8C2226'
-    - '#79979A'
-    - '#A8B589'
-    - '#7D6262'
-    - '#D4E6DF'
+    - '#9A3100'
+    - '#B55E2D'
+    - '#A9A669'
+    - '#18100B'
+    - '#D48800'
 coverPrefs:
   filter: false
+github: true
 analytics:
   twitter: Private
 author:
@@ -33,6 +34,9 @@ navigation:
   - name: Location - Where
     id: d7e6a7ce-3d9b-431a-aa4a-f549de02fa9f
     type: content
+  - name: Home
+    url: 'https://thegrid.ai/augustshow'
+    type: external
 title: Expressions Artist Show
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -88,4 +92,3 @@ purpose:
   - type: contact
     url: 'mailto:nelia@neliaharper.com'
     label: Contact Nelia for more info
-github: true
