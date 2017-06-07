@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2017-06-02T02:43:26.176Z'
-dateModified: '2017-06-02T02:41:55.681Z'
+datePublished: '2017-06-06T13:19:19.749Z'
+dateModified: '2017-06-06T13:19:19.322Z'
 title: Nelia Harper
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2017-06-02-nelia-harper.md
 starred: false
 datePublishedOriginal: '2017-06-02T02:43:26.176Z'
-sourcePath: _posts/2017-06-02-nelia-harper.md
 _context: 'http://schema.org'
 _type: Article
 
