@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2017-05-31T01:03:19.136Z'
-dateModified: '2017-05-31T01:03:10.647Z'
+datePublished: '2017-05-31T01:04:24.715Z'
+dateModified: '2017-05-31T01:04:24.072Z'
 title: 8 artists side by side !
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2017-05-31-8-artists-side-by-side.md
 starred: false
 datePublishedOriginal: '2017-05-31T01:03:19.136Z'
-sourcePath: _posts/2017-05-31-8-artists-side-by-side.md
 _context: 'http://schema.org'
 _type: Article
 
