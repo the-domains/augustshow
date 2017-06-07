@@ -1,16 +1,16 @@
 ---
 description: 'Steve Germaine -Fort Collins, Colorado, 2017'
 author: []
-datePublished: '2017-05-28T14:53:44.572Z'
-dateModified: '2017-05-28T14:53:44.125Z'
+datePublished: '2017-06-02T03:16:02.929Z'
+dateModified: '2017-05-31T01:04:24.072Z'
 title: ''
 publisher: {}
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-27-pueblo-pot-cherry-walnut-wormy-red-maple.md
 hasPage: true
-datePublishedOriginal: '2017-05-28T14:53:44.572Z'
 starred: false
+datePublishedOriginal: '2017-05-27T01:16:18.908Z'
 url: pueblo-pot-cherry-walnut-wormy-red-maple/index.html
 _context: 'http://schema.org'
 _type: Article
