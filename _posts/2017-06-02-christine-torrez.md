@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2017-06-02T02:43:26.180Z'
-dateModified: '2017-06-02T02:40:53.769Z'
+datePublished: '2017-06-06T13:19:19.748Z'
+dateModified: '2017-06-06T13:19:19.322Z'
 title: Christine Torrez
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2017-06-02-christine-torrez.md
 starred: false
 datePublishedOriginal: '2017-06-02T02:43:26.180Z'
-sourcePath: _posts/2017-06-02-christine-torrez.md
 _context: 'http://schema.org'
 _type: Article
 
