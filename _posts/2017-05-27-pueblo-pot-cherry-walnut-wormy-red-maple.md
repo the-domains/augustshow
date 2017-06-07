@@ -1,8 +1,8 @@
 ---
 description: 'Steve Germaine -Fort Collins, Colorado, 2017'
 author: []
-datePublished: '2017-05-30T19:44:40.020Z'
-dateModified: '2017-05-30T19:44:38.937Z'
+datePublished: '2017-05-28T14:55:04.824Z'
+dateModified: '2017-05-28T14:55:04.669Z'
 title: ''
 publisher: {}
 via: {}
