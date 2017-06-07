@@ -1,15 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2017-06-02T02:43:26.177Z'
-dateModified: '2017-06-02T02:41:24.755Z'
+datePublished: '2017-06-06T13:19:19.764Z'
+dateModified: '2017-06-06T13:19:19.322Z'
 title: Patty Hughes
 publisher: {}
 via: {}
 inFeed: true
+sourcePath: _posts/2017-06-02-patty-hughes.md
 starred: false
 datePublishedOriginal: '2017-06-02T02:43:26.177Z'
-sourcePath: _posts/2017-06-02-patty-hughes.md
 _context: 'http://schema.org'
 _type: Article
 
