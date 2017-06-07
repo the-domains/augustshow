@@ -4,8 +4,8 @@ description: >-
   of nature, and create an intimate connection between the viewer and the
   natural world.
 author: []
-datePublished: '2017-05-29T13:39:54.578Z'
-dateModified: '2017-05-29T13:39:54.346Z'
+datePublished: '2017-05-28T14:58:02.390Z'
+dateModified: '2017-05-28T14:58:02.259Z'
 title: ''
 publisher: {}
 via: {}
