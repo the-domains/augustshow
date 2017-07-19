@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2017-05-29T04:06:13.215Z'
-dateModified: '2017-05-29T04:06:07.859Z'
+datePublished: '2017-07-19T04:01:22.558Z'
+dateModified: '2017-07-19T04:01:08.428Z'
 publisher: {}
 author: []
 inFeed: true
@@ -21,6 +21,6 @@ _type: Blurb
 There are no boundaries other than your own. A good Artist friend of mind said **"Its not the result, its the journey that is import"**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41b95a46-de7a-4a08-a3c5-32465efeec07.jpg)
 
-Steve is currently working on illustrating a poem the "Greedy Vacuum Cleaner" which always makes him smile and be amazed by it's creation...word art!
+Steve is currently working on illustrating a poem the "Greedy Vacuum Cleaner" which always makes him smile and amazed by it's creation...word art!
 
 [0]: http://stevegw.today/ "Steve's Web Site"
