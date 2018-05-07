@@ -1,8 +1,8 @@
 ---
 description: 'Jennifer Spencer Artist, Thinker, Inventor'
 author: []
-datePublished: '2018-05-07T17:39:02.062Z'
-dateModified: '2018-05-07T17:39:01.426Z'
+datePublished: '2018-05-07T17:41:07.465Z'
+dateModified: '2018-05-07T17:41:07.221Z'
 title: ''
 publisher: {}
 via: {}
