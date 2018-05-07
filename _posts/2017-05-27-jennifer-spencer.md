@@ -1,8 +1,8 @@
 ---
 description: 'Jennifer Spencer Artist, Thinker, Inventor'
 author: []
-datePublished: '2017-06-06T13:19:19.760Z'
-dateModified: '2017-06-06T13:19:19.322Z'
+datePublished: '2018-05-07T17:34:47.279Z'
+dateModified: '2018-05-07T17:34:44.499Z'
 title: ''
 publisher: {}
 via: {}
@@ -16,9 +16,7 @@ _type: Article
 ---
 **[Jennifer Spencer][0] Artist, Thinker, Inventor**
 
-Jennifer creates modern paintings that enliven the homes of interesting people & hearten contemporary commercial spaces.
-
-Moved by an insatiable curiosity of life & learning, Jennifer has explored song writing, invented and patented products, been the CEO of start-up ventures, successfully commercialized products on an international scale and sung in rock&roll bands. Her current passion is around visual expression & modern abstract oil painting.
+"I create modern oil paintings that enliven the homes of interesting people & hearten contemporary commercial spaces.  Originals & prints are available for sale & licensing."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/877f8474-8a7e-48ab-aeaa-c8075c3dbff5.jpg)
 
-[0]: http://www.JenniferSpencerArt.com/ "Jennifer's Web Site"
+[0]: http://www.JenniferSpencerArt.com/ "Navigate to Jennifer's web site"
