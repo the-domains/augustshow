@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-05-07T17:56:20.716Z'
-dateModified: '2018-05-07T17:56:20.001Z'
+datePublished: '2018-05-07T17:56:57.542Z'
+dateModified: '2018-05-07T17:56:56.737Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-05-18-art-show-details.md
