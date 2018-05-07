@@ -1,4 +1,3 @@
-layout_spectrum: 0.6931683418996595
 typography_spectrum: 0.02895607602404486
 color:
   brandStrength: 0.3170648624580169
@@ -11,9 +10,8 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-coverPrefs:
-  filter: false
 github: true
+layout_spectrum: 0.6931683418996595
 analytics:
   twitter: Private
 author:
@@ -28,7 +26,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: When - Details
+  - name: Where
     id: 73d27468-f9fb-4ac7-b805-d12cf0cfae6b
     type: content
   - name: Location - Where
@@ -87,6 +85,8 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: '* Artists and their joy of Art'
 purpose:
   - type: contact
