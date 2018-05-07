@@ -1,8 +1,8 @@
 ---
 description: ''
 author: []
-datePublished: '2017-06-06T13:19:19.748Z'
-dateModified: '2017-06-06T13:19:19.322Z'
+datePublished: '2018-05-07T17:41:07.493Z'
+dateModified: '2018-05-07T17:41:07.221Z'
 title: Christine Torrez
 publisher: {}
 via: {}
