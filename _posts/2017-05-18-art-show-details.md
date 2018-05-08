@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-05-08T22:04:34.281Z'
-dateModified: '2018-05-08T22:04:33.117Z'
+datePublished: '2018-05-08T22:44:54.258Z'
+dateModified: '2018-05-08T22:44:53.562Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-05-18-art-show-details.md
@@ -17,12 +17,10 @@ _type: Blurb
 ---
 # Art Show details
 
-## General opening **July 26th** Wed-Sat noon-6 p.m
+## **July 26th** General opening Wed-Sat Noon-6 p.m 
 
-## **July 28th, from 1-3pm Open House**
+## **July 28th, from 1-3 pm Open House**
 
-## Closing Celebration
-
-## **August 4 First Friday Gallery Walk 6-9 pm**
+## **August 4 First Friday Gallery Walk 6-9 pm (**Closing Celebration)
 
 ## 200 Mathews Fort Collins, CO 80524
