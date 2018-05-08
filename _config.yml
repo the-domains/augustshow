@@ -29,7 +29,7 @@ navigation:
   - name: Where
     id: 73d27468-f9fb-4ac7-b805-d12cf0cfae6b
     type: content
-  - name: Location - Where
+  - name: 'Location '
     id: d7e6a7ce-3d9b-431a-aa4a-f549de02fa9f
     type: content
   - name: Home
