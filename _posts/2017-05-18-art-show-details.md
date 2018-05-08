@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-05-08T22:45:46.421Z'
-dateModified: '2018-05-08T22:45:45.902Z'
+datePublished: '2018-05-08T22:46:43.336Z'
+dateModified: '2018-05-08T22:46:42.555Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-05-18-art-show-details.md
@@ -17,7 +17,7 @@ _type: Blurb
 ---
 # Art Show details
 
-## **July 26th** General opening Wed-Sat Noon-6 p.m
+## **July 26th** General opening Wed-Sat Noon-6 pm
 
 ## **July 28th, from 1-3 pm Open House**
 
