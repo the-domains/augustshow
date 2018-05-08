@@ -1,9 +1,9 @@
 ---
 inFeed: false
-description: '200 MathewsFort Collins, CO 80524'
-dateModified: '2018-05-07T17:52:29.141Z'
-datePublished: '2018-05-07T17:52:29.609Z'
-title: ''
+description: ''
+dateModified: '2018-05-08T22:47:50.309Z'
+datePublished: '2018-05-08T22:47:51.675Z'
+title: '200 MathewsFort Collins, CO 80524'
 author: []
 publisher: {}
 via: {}
@@ -15,11 +15,9 @@ url: 200-mathewsfort-collins-co-80524/index.html
 _type: Blurb
 
 ---
-[200 Mathews  
-Fort Collins, CO 80524][0]
+# 200 Mathews  
+Fort Collins, CO 80524
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0879f880-aabb-41a6-81e4-d613c49f6d19.jpg)
 
-Wed-Sat noon-6 p.m.,  
-Extended hours (6-9 p.m.) on First Friday Gallery Walks
-
-[0]: https://www.google.com/maps/place/200+Mathews%2C+Fort+Collins%2C+CO+80524
+## Wed-Sat noon-6 pm  
+Extended hours (6-9 pm) on First Friday Gallery Walks
