@@ -26,7 +26,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Where
+  - name: When
     id: 73d27468-f9fb-4ac7-b805-d12cf0cfae6b
     type: content
   - name: 'Location '
